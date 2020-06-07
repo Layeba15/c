@@ -1,0 +1,11 @@
+img{
+  align-items: center;
+}
+.top{
+  margin-left: 250px;
+}
+.side{
+  margin-left: 500px;
+  height: 100px;
+  width: 100%;
+}
